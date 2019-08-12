@@ -1,0 +1,28 @@
+{
+  "name": "nodescraper-boilerplate",
+  "version": "1.0.0",
+  "description": "\"Boiler plate for scraping web data and saving it to mongo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaellargent/nodescraper-boilerplate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "scraper",
+    "mongo"
+  ],
+  "author": "michaellargent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaellargent/nodescraper-boilerplate/issues"
+  },
+  "homepage": "https://github.com/michaellargent/nodescraper-boilerplate#readme",
+  "dependencies": {
+    "mongoose": "^5.6.9"
+  }
+}
